@@ -1,0 +1,3 @@
+Hello, this is a Python file writing example.
+This is the second line.
+Python makes file handling easy!
